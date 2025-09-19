@@ -45,7 +45,7 @@ Google の個人アカウントから Google Workspace へ移行する際、
 ## 参考記事
 
 - Qiita: Googleドライブをrobocopyで差分バックアップ（UTF-8対応バッチ付き）  
-  （公開後リンクをここに追記）
+https://qiita.com/t-chi/items/a35d28b39ec92398e7ec
 
 ---
 
